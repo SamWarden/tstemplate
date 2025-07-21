@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple template for a TypeScript project",
   "scripts": {
-    "start": "yarn ts-node src/tstemplate/main.ts"
+    "start": "yarn tsx src/tstemplate/main.ts"
   },
   "dependencies": {
   },
